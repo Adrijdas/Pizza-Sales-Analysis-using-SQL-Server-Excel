@@ -42,15 +42,20 @@
 
 The dataset should contain the following columns:
 
-- order_id
-- order_date
-- order_time
-- pizza_name
-- pizza_category
-- pizza_size
+- pizza id
+- order id
+- total orders
+- pizza name id
 - quantity
-- unit_price
-- total_price
+- order date
+- order day
+- order time
+- unit price
+- total price
+- pizza size
+- pizza category
+- pizza ingredients
+- pizza name
 
 ---
 
